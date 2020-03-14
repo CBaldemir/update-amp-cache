@@ -1,6 +1,7 @@
 package com.example.demo;
 
 public class UpdateCacheDto {
+
 	private String cacheApiDomain;
 	private String domain;
 
